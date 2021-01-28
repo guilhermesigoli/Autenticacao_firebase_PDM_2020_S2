@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "847724612639",
+    "project_id": "autenticacaofirebase-f2390",
+    "storage_bucket": "autenticacaofirebase-f2390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847724612639:android:c5e95f7610e662fb71d92a",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.scl.ads.s5.pdm.autenticacaofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847724612639-gtmbd4on40r6a0bt7e643ne0po5u0mu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsp.scl.ads.s5.pdm.autenticacaofirebase",
+            "certificate_hash": "0ddaba0ac34a77aebf4c2ad88318d2dd492d6ea3"
+          }
+        },
+        {
+          "client_id": "847724612639-tgqmbsq0h46vbidiisq07c33oiggc3pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOq-9kGYMEAtevH9OM13kgV0HYmcacW9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847724612639-tgqmbsq0h46vbidiisq07c33oiggc3pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
